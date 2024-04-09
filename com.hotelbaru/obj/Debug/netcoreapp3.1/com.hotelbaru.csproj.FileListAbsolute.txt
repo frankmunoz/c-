@@ -1,0 +1,10 @@
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/obj/Debug/netcoreapp3.1/com.hotelbaru.csprojAssemblyReference.cache
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/obj/Debug/netcoreapp3.1/com.hotelbaru.AssemblyInfoInputs.cache
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/obj/Debug/netcoreapp3.1/com.hotelbaru.AssemblyInfo.cs
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/bin/Debug/netcoreapp3.1/com.hotelbaru.deps.json
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/bin/Debug/netcoreapp3.1/com.hotelbaru.runtimeconfig.json
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/bin/Debug/netcoreapp3.1/com.hotelbaru.runtimeconfig.dev.json
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/bin/Debug/netcoreapp3.1/com.hotelbaru.dll
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/bin/Debug/netcoreapp3.1/com.hotelbaru.pdb
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/obj/Debug/netcoreapp3.1/com.hotelbaru.dll
+/Users/franciscomunoz/Documents/Development/c#/com.hotelbaru/obj/Debug/netcoreapp3.1/com.hotelbaru.pdb

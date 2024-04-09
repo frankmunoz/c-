@@ -1,0 +1,10 @@
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/bin/Debug/netcoreapp3.1/com.calculosalario.deps.json
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/bin/Debug/netcoreapp3.1/com.calculosalario.runtimeconfig.json
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/bin/Debug/netcoreapp3.1/com.calculosalario.runtimeconfig.dev.json
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/bin/Debug/netcoreapp3.1/com.calculosalario.dll
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/bin/Debug/netcoreapp3.1/com.calculosalario.pdb
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/obj/Debug/netcoreapp3.1/com.calculosalario.csprojAssemblyReference.cache
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/obj/Debug/netcoreapp3.1/com.calculosalario.AssemblyInfoInputs.cache
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/obj/Debug/netcoreapp3.1/com.calculosalario.AssemblyInfo.cs
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/obj/Debug/netcoreapp3.1/com.calculosalario.dll
+/Users/franciscomunoz/Documents/Development/c#/com.calculosalario/obj/Debug/netcoreapp3.1/com.calculosalario.pdb

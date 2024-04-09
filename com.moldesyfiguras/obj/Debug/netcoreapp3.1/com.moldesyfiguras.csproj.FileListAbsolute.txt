@@ -1,0 +1,10 @@
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/bin/Debug/netcoreapp3.1/com.moldesyfiguras.deps.json
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/bin/Debug/netcoreapp3.1/com.moldesyfiguras.runtimeconfig.json
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/bin/Debug/netcoreapp3.1/com.moldesyfiguras.runtimeconfig.dev.json
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/bin/Debug/netcoreapp3.1/com.moldesyfiguras.dll
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/bin/Debug/netcoreapp3.1/com.moldesyfiguras.pdb
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/obj/Debug/netcoreapp3.1/com.moldesyfiguras.csprojAssemblyReference.cache
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/obj/Debug/netcoreapp3.1/com.moldesyfiguras.AssemblyInfoInputs.cache
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/obj/Debug/netcoreapp3.1/com.moldesyfiguras.AssemblyInfo.cs
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/obj/Debug/netcoreapp3.1/com.moldesyfiguras.dll
+/Users/franciscomunoz/Documents/Development/c#/com.moldesyfiguras/obj/Debug/netcoreapp3.1/com.moldesyfiguras.pdb
